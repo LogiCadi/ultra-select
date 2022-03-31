@@ -1,0 +1,13 @@
+{
+  "name": "ultra-select",
+  "version": "1.0.1",
+  "description": "a powerful ultra selector with React",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
